@@ -1,3 +1,6 @@
+## Live Preview
+https://solid-js-todo-drag-n-drop.vercel.app/
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
